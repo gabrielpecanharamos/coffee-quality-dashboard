@@ -1,11 +1,11 @@
 # coffee-quality-dashboard
 
-Dashboard interativo desenvolvido para apresentar os indicadores de qualidade, análise sensorial e rankings de cafés especiais das espécies **Arábica** e **Robusta**, obtidos a partir de consultas SQL.
+Dashboard interativo desenvolvido para apresentar os indicadores de qualidade, análise sensorial e rankings de cafés especiais das espécies **Arábica** e **Robusta**.
 
 ## Origem dos Dados
 
-Os dados exibidos neste painel foram extraídos, limpos e modelados no Microsoft SQL Server através do projeto:
-**[Acesse o repositório coffee-quality-etl](https://github.com/gabrielpecanharamos/coffee-quality-etl)**
+Os dados exibidos neste painel foram extraídos e limpos em Python, carregados em uma base de dados no Microsoft SQL Server e consultados por meio de queries SQL através do projeto:
+**[coffee-quality-etl](https://github.com/gabrielpecanharamos/coffee-quality-etl)**
 
 ## Estrutura do Projeto
 
